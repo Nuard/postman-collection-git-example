@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Request 3",
+			"name": "My request 3",
 			"event": [
 				{
 					"listen": "test",
